@@ -1,0 +1,8 @@
+pip install scrapy-user-agents
+
+pip install scrapy-proxy-pool
+pip install scrapy-rotating-proxies
+
+scraper api:7a7cc7a54995ef27d0bc0ac3d69e8a56
+
+pip install scraperapi-sdk
